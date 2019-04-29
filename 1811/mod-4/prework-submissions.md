@@ -46,9 +46,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Gabriel Inzurriaga
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/Inzurriaga/message-homework)
+* [Annotated Express server file](https://github.com/Inzurriaga/trapper-keeper-api/tree/prework)
+* [Promise Practice Exercises](https://github.com/Inzurriaga/promise-homework)
 
 ## Isaac Sunoo
 
